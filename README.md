@@ -5,7 +5,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
