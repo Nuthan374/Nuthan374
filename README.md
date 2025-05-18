@@ -6,7 +6,11 @@
 </picture>
 
 <img src="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nuthan374/Nuthan374/output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 <div align="center">
