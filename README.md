@@ -9,6 +9,8 @@
 <h4 align="left">I'm Dhanesh from Bengaluru<br><br>- 🎓 Recent MCA graduate, passionate about coding and problem-solving.<br>- 🔭 Looking for entry-level roles or internships to kickstart my software development career.<br>- 🛠️ Working on improving my coding skills through hands-on projects and challenges.<br>- 💻 I enjoy building small projects and exploring new tech in my free time.<br>- 📫 Always open to connect and collaborate!</h4>
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
+
 
 
 <div align="left">
@@ -50,6 +52,7 @@
 </div>
 
 ###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhaneshGL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
